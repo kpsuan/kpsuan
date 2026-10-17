@@ -19,7 +19,7 @@ i like to make things work, and i like it pretty.
 
 ### What I use most
 
-[![My stack](https://skillicons.dev/icons?i=js,ts,react,svelte,vue,nodejs,python,django,tailwind,figma&perline=10)](https://skillicons.dev)
+[![My stack](https://skillicons.dev/icons?i=js,ts,react,svelte,vue,nodejs,php,python,django,tailwind,figma&perline=11)](https://skillicons.dev)
 
 <details>
 <summary>Everything I've worked with</summary>
