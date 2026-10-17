@@ -2,7 +2,7 @@
 
 i like to make things work, and i like it pretty.
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/smithcorona1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kpsuan)
+[![Website](https://img.shields.io/badge/Website-000000?logo=framer&logoColor=white)](https://prandesal.framer.website/) [![Design portfolio](https://img.shields.io/badge/Design%20portfolio-00C4CC?logo=canva&logoColor=white)](https://www.canva.com/design/DAGz8IHZc3I/EvQBj64lhuAhMceevbdwJw/view) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/smithcorona1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kpsuan)
 
 ### Building now
 
